@@ -22,7 +22,7 @@ def bonus
 
   #code your solution here:
   
-  bonus [:Montague][:hero][:status] = "dead"
+  bonus [:Montague][:hero]
 
   
 
